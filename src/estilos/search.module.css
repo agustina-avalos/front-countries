@@ -46,7 +46,7 @@
 .btn{
     background-color:  transparent;
     border-radius: 10px;
-    margin-left: 5px;
+    margin-left: 0px;
     border: none;
     cursor: pointer;
     transition: 300ms;
