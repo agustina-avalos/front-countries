@@ -37,8 +37,8 @@
 
 
 .avion{
-    width: 7vw;
-    height: 7vh;
+    width: 5vw;
+    height: 5vh;
     background-color: transparent;
     border-radius: 10px;
 }
@@ -46,7 +46,7 @@
 .btn{
     background-color:  transparent;
     border-radius: 10px;
-    margin-left: 0px;
+    margin-left: -4px;
     border: none;
     cursor: pointer;
     transition: 300ms;
