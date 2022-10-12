@@ -13,7 +13,7 @@
 
 
 .countries_div{
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     flex-wrap: wrap; 
     justify-content: space-between;
@@ -40,7 +40,7 @@
     font-family: 'Playfair Display', serif;
     padding: 10px 22px;
     margin-right: 10px;
-    font-size: 20px;
+    font-size: 10px;
     font-style:initial;
     border-radius: 5px;
     border-color: none;
