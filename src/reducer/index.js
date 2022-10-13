@@ -76,7 +76,7 @@ function rootReducer(state= initialState,action){
             }
 
         case "BY_POPULATION":
-            const filterBYpopu = action.payload === "Max" ? 
+            const filterBYpopu = action.payload === "Min" ? 
             state.countries.sort(function(a,b){
                 if(a.population  > b.population){
                     return 1
